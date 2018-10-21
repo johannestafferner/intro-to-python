@@ -14,6 +14,6 @@ browser (just click on the links in the list above).
 However, it is recommended to **install Python and Jupyter locally** and run
 the notebooks. This way, the student can play with the code and learn more
 efficiently. Precise **installation instructions** are in the
-[0th notebook](0_start_up.ipynb).
+[0th notebook](00_start_up.ipynb).
 
 Feedback is encouraged and will be incorporated.
