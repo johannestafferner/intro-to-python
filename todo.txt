@@ -1,0 +1,106 @@
+
+basics improvements
+===================
+
+0)
+contents: also some third-party libraries
+installation: spyder
+
+1)
+infix operators
+
+3)
+scoping rules
+call function with keyword arguments
+define default argument values and keyword-only arguments
+define *args and **kwargs
+call function with unpacking lists and dicts
+lambda expressions
+pure functions (no side effects)  vs.  modifiers (changes visible to caller)
+why is something in standard library vs. core
+
+6)
+define iterable in for section
+introduce zip in for section
+break
+continue
+
+new notebook on exceptions
+raising exceptions
+handling exceptions
+warnings
+
+new notebook on numbers
+integers
+bools with casting
+floats (explain the standard and show rounding errors)
+decimals (https://pymotw.com/3/decimal/index.html)
+fractions (https://pymotw.com/3/fractions/index.html)
+imaginary
+
+9)
+think of tuples as records
+
+12)
+https://stackoverflow.com/questions/1436703/difference-between-str-and-repr
+abs() -> call norm ?
+__bool__
+scoping for derived classes
+custom exceptions are classes
+namedtuples are also classes
+python data model
+
+
+intermediate content
+====================
+
+modules and packages -> introduce spyder
+
+decorators & closures
+nonlocal scope
+
+files & csv
+
+requests
+
+beautifulsoup
+
+regular expressions
+
+date and datetimes, timedeltas
+
+multiple inheritance & method resolution order & super
+raymond hettinger talk - super considered super
+
+sys and os
+
+dynamic execution of code with eval and exec
+
+
+python data model
+=================
+
+iterables and iterators
+https://www.youtube.com/watch?v=jTYiNjvnHZY&list=WL&index=141&t=0s
+generators
+iter(foo) is iter(foo)
+
+with and context managers
+
+sequences
+
+interfaces
+
+
+metaprogramming
+===============
+
+writable properties & descriptors
+
+metaclasses
+
+
+concurrency
+===========
+
+coroutines
