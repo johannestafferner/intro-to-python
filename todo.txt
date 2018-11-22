@@ -24,6 +24,7 @@ define iterable in for section
 introduce zip in for section
 break
 continue
+change local_search() function in Newton's Method cas to use for else
 
 new notebook on exceptions
 raising exceptions
@@ -32,6 +33,7 @@ warnings
 
 new notebook on numbers
 integers
+_ thousands seperator
 bools with casting
 floats (explain the standard and show rounding errors)
 decimals (https://pymotw.com/3/decimal/index.html)
