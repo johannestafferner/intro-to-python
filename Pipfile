@@ -9,6 +9,7 @@ numpy = "*"
 matplotlib = "*"
 googlemaps = "*"
 folium = "*"
+geopy = "*"
 
 [dev-packages]
 
