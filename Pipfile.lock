@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "acc1f95ebf91f195340c101131b0c5e0d4b6f0de0fc4dc5e073207f2c534533a"
+            "sha256": "b3b3a2c6e4043fb03e06c7102011b99ac68bb7365d15320436c2d2e218a31d27"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -29,6 +29,14 @@
                 "sha256:73d26f018af5d5adcdabf5c1c974add4361a9c76af215fe32fdec8a6fc5fb9b9"
             ],
             "version": "==3.0.2"
+        },
+        "branca": {
+            "hashes": [
+                "sha256:3e762c9bdf40725f3d05ea1fda8fae9b470bfada6474e43a1242c8204a7bb15e",
+                "sha256:4d89048add9628d1f83a73c6482c116f6752580cc03d5fe09de0bdeb8e5a2158",
+                "sha256:56e93dc6f65f4ff0169b5aac9e7db5c667da34c42b78d7f7bd0cb47af9de19e9"
+            ],
+            "version": "==0.3.1"
         },
         "certifi": {
             "hashes": [
@@ -71,6 +79,14 @@
                 "sha256:d2d587dde06f99545fb13a383d2cd336a8ff1f359c5839ce3a64c917d10c029f"
             ],
             "version": "==0.2.3"
+        },
+        "folium": {
+            "hashes": [
+                "sha256:36654b34e3cc09f5779efb715b7377a83875c3ef554d477321921033076db012",
+                "sha256:45bd372b73b0b0ec4c828ae1fc6e8e59df64a0bcd1e6314c6cd0173dd94e13c7"
+            ],
+            "index": "pypi",
+            "version": "==0.7.0"
         },
         "googlemaps": {
             "hashes": [
