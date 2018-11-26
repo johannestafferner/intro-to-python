@@ -86,6 +86,7 @@ iterables and iterators
 https://www.youtube.com/watch?v=jTYiNjvnHZY&list=WL&index=141&t=0s
 generators
 iter(foo) is iter(foo)
+itertools
 
 with and context managers
 
