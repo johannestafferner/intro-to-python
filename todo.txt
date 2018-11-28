@@ -19,6 +19,9 @@ lambda expressions
 pure functions (no side effects)  vs.  modifiers (changes visible to caller)
 why is something in standard library vs. core
 
+4)
+None as False in boolean context
+
 6)
 define iterable in for section
 introduce zip in for section
