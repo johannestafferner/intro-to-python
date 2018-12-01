@@ -28,6 +28,10 @@ introduce zip in for section
 break
 continue
 change local_search() function in Newton's Method cas to use for else
+while True
+
+7)
+add str.replace()
 
 new notebook on exceptions
 raising exceptions
