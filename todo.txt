@@ -39,6 +39,7 @@ handling exceptions
 warnings
 
 8)
+zip -> use to transpose a matrix
 reversed
 
 9)
