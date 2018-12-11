@@ -65,7 +65,7 @@ nonlocal scope
 
 files & csv
 
-requests
+requests + urlparse + https://github.com/python-hyper/hyperlink
 
 beautifulsoup
 
@@ -79,6 +79,8 @@ raymond hettinger talk - super considered super
 sys and os
 
 dynamic execution of code with eval and exec
+
+base64 encoding
 
 
 python data model
