@@ -45,7 +45,13 @@ reversed
 9)
 think of tuples as records
 
+11)
+dict comprehensions
+
 12)
+set comprehensions
+
+13)
 https://stackoverflow.com/questions/1436703/difference-between-str-and-repr
 abs() -> call norm ?
 __bool__
