@@ -10,10 +10,12 @@ matplotlib = "*"
 googlemaps = "*"
 folium = "*"
 geopy = "*"
+tornado = "<6"
 
 [dev-packages]
 black = "*"
 blackcellmagic = "*"
+rise = "*"
 
 [requires]
 python_version = "3.6"

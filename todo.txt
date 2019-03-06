@@ -2,26 +2,14 @@
 basics improvements
 ===================
 
-0)
-contents: also some third-party libraries
-installation: spyder
-
-1)
-infix operators
+2)
 https://towardsdatascience.com/https-towardsdatascience-com-python-basics-mutable-vs-immutable-objects-829a0cb1530a
 
 3)
-scoping rules
-call function with keyword arguments
-define default argument values and keyword-only arguments
 define *args and **kwargs
 call function with unpacking lists and dicts
-lambda expressions
 pure functions (no side effects)  vs.  modifiers (changes visible to caller)
 why is something in standard library vs. core
-
-4)
-None as False in boolean context
 
 6)
 define iterable in for section

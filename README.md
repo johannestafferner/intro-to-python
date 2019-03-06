@@ -44,19 +44,24 @@ and clone this repository.
 
 Since Jupyter notebooks have become a de-facto standard for communicating and
 exchanging results in the data science community (both in academia and
-business), the corresponding extensions have to be installed as well.
+business), the corresponding extensions have to be installed as well. Strictly
+speaking, Jupyter is a third-party library that is not included in a plain
+Python installation.
 
 There are two recommended ways to install Python and Jupyter for this course.
-The second approach is probably more beginner friendly.
+The second approach is probably more beginner friendly while the first allows
+for a much leaner installation. Note that it is only necessary to follow one of
+the two installation approaches to follow the course.
 
-### 1) Canonical
+### 1) Canonical (="pure")
 
 First, check the official
 [Python installation instructions](https://www.python.org/downloads/) for your
 operating system and install the latest version. This includes only the core
-parts of Python and the Standard Library. Then, using the `pip` or `pipenv`
-command-line tools install the *jupyter* package (see the notes at the bottom
-of this [link](https://jupyter.org/install)), ideally using a
+parts of Python and the Standard Library. Then, using the `pip` (or the more
+modern `pipenv`) command-line tool install the *jupyter* third-party package
+(see the notes at the bottom of this [link](https://jupyter.org/install)),
+ideally using a
 [virtual environment](https://docs.python.org/3/library/venv.html).
 
 After installation, open a terminal, switch to the folder created as above, and
